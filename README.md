@@ -35,18 +35,18 @@ Existing PHUSE knowledge repository, which includes: conference papers and prese
 
 Classes and subclasses of educational topics, for example:
 * Programming Languages
- * SAS
- * R
- * Python
- * Julia
- * ...
+   * SAS
+   * R
+   * Python
+   * Julia
+   * ...
 * Regulatory Environment
- * FDA
- * PMDA
- * EMA
- * CFDA
- * Submission Packages
- * ...
+   * FDA
+   * PMDA
+   * EMA
+   * CFDA
+   * Submission Packages
+   * ...
 * Clinical Documents
  * Protocol
  * Study Report
