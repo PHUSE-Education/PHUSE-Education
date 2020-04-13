@@ -48,65 +48,65 @@ Classes and subclasses of educational topics, for example:
    * Submission Packages
    * ...
 * Clinical Documents
- * Protocol
- * Study Report
- * CRF
- * ...
+   * Protocol
+   * Study Report
+   * CRF
+   * ...
 * Industry Standards
- * CDISC
- * MedDRA
- * WHODrug
- * HL7
- * ICH
- * ...
+   * CDISC
+   * MedDRA
+   * WHODrug
+   * HL7
+   * ICH
+   * ...
 * Drug Development
- * Ph I-IV
- * NIS* 
- * Obs
- * ISS
- * ISE
- * Pharmacology
- * From study planning to analysis
- * Risk Based Monitoring
- * End-to-End data flow
+   * Ph I-IV
+   * NIS* 
+   * Obs
+   * ISS
+   * ISE
+   * Pharmacology
+   * From study planning to analysis
+   * Risk Based Monitoring
+   * End-to-End data flow
 * Technology & Applications 
- * Statistical Analysis
-  * SAS
-  * Tableau
-  * Spotfire
-  * ...
- * Databases
- * eCRF
-  * Rave
-  * Inform
- * MDRs
- * Pinnacle21
+   * Statistical Analysis
+     * SAS
+     * Tableau
+     * Spotfire
+     * ...
+   * Databases
+   * eCRF
+     * Rave
+     * Inform
+     * MDRs
+   * Pinnacle21
 * Therapeutic Areas
- * Autoimmune
- * CV
- * ....
+   * Autoimmune
+   * CV
+   * ....
 * Job Skills 
- * PMgt
- * Leadership & Management
- * Agile Development
- * Dev&Val
- * MS Office
- * ...
+   * PMgt
+   * Leadership & Management
+   * Agile Development
+   * Dev&Val
+   * MS Office
+   * ...
 * Data Engineering 
- * Relational Databases
- * Graph Databases
- * Deployment and Automatization
- * FAIR
- * ...
+   * Relational Databases
+   * Graph Databases
+   * Deployment and Automatization
+   * FAIR
+   * ...
 * Data Science
- * Statistics&Analytics
-  * Sample Size
-  * Missing Data
-  * Repeated Measurements
-  * Quantitative Analytics
-  * Advanced Analytics
-  * ...
- * Visualisation
- * Story Telling
- * ...
+   * Statistics&Analytics
+     * Sample Size
+     * Missing Data
+     * Repeated Measurements
+     * Quantitative Analytics
+     * Advanced Analytics
+     * ...
+   * Visualisation
+   * Story Telling
+   * ...
 
